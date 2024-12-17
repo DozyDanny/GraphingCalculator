@@ -1,0 +1,16 @@
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\bin\Debug\net8.0-windows\GraphingCalculator.exe
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\bin\Debug\net8.0-windows\GraphingCalculator.deps.json
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\bin\Debug\net8.0-windows\GraphingCalculator.runtimeconfig.json
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\bin\Debug\net8.0-windows\GraphingCalculator.dll
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\bin\Debug\net8.0-windows\GraphingCalculator.pdb
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\obj\Debug\net8.0-windows\GraphingCalculator.csproj.GenerateResource.cache
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\obj\Debug\net8.0-windows\GraphingCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\obj\Debug\net8.0-windows\GraphingCalculator.AssemblyInfoInputs.cache
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\obj\Debug\net8.0-windows\GraphingCalculator.AssemblyInfo.cs
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\obj\Debug\net8.0-windows\GraphingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\obj\Debug\net8.0-windows\GraphingCalculator.dll
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\obj\Debug\net8.0-windows\refint\GraphingCalculator.dll
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\obj\Debug\net8.0-windows\GraphingCalculator.pdb
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\obj\Debug\net8.0-windows\GraphingCalculator.genruntimeconfig.cache
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\obj\Debug\net8.0-windows\ref\GraphingCalculator.dll
+C:\Users\danny\source\repos\GraphingCalculator\GraphingCalculator\obj\Debug\net8.0-windows\GraphingCalculator.GrapingCalculatorForm.resources
